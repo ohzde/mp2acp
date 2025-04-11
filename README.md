@@ -7,7 +7,6 @@ If you use these data, please cite the following sources:
 - [Link1](link1)
 - [Link2](link2)
 
---
 
 The `Data/` contains spreadsheets with reference, base, and ACP-corrected energies for different ACPs. Data are provided for:
 
@@ -15,11 +14,9 @@ The `Data/` contains spreadsheets with reference, base, and ACP-corrected energi
 - The TABS test set
 - The MolDef test set
 
---
 
 The `Geometries/` folder includes molecular geometries in `.xyz` format for the training and both of the test sets.
 
---
 
 The `Reference_calculations/` directory contains:
 
